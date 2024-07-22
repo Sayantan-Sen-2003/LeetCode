@@ -28,10 +28,12 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0020-valid-parentheses) |
+| [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
 ## Array
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -41,6 +43,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0146-lru-cache) |
+| [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -53,4 +56,8 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0937-online-stock-span) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
