@@ -60,4 +60,8 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
