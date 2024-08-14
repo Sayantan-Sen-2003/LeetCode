@@ -64,4 +64,8 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/1179-game-play-analysis-i) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
