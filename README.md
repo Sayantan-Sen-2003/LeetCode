@@ -32,6 +32,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
 ## Monotonic Stack
