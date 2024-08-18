@@ -32,6 +32,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
@@ -69,4 +70,8 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
