@@ -9,6 +9,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 | [0155-min-stack](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0937-online-stock-span) |
 ## Design
@@ -53,6 +54,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 | [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -81,8 +83,10 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
