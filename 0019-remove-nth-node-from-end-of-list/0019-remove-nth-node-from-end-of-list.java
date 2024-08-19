@@ -13,28 +13,25 @@ class Solution {
         if(head==null)
         return head;
 
-        ListNode fast=head;
-        ListNode slow=head;
-        ListNode current=null; //to track the previous step of slow pointer
-        int count =0;
+        ListNode fast=head,slow=head,current=null;
+        int count=0;
 
         while(count<n){
-            fast=fast.next;
             count++;
+            fast=fast.next;
         }
-        if(fast==null)
-        return head.next; //null
 
+        if(fast==null){
+            head=head.next;
+            return head;
+        } 
         while(fast!=null){
             current=slow;
-            slow=slow.next;
             fast=fast.next;
+            slow=slow.next;
         }
-        // if(current.next!=null)
-         current.next=current.next.next;
-        //  else 
-        //  current.next=null;
-        return head;
+        current.next=current.next.next;
 
+        return head;
     }
 }
