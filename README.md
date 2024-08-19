@@ -52,6 +52,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0146-lru-cache) |
@@ -77,6 +78,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 ## Dynamic Programming
 |  |
@@ -85,6 +87,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
