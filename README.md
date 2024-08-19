@@ -50,6 +50,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -74,4 +75,8 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
