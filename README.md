@@ -44,11 +44,13 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0146-lru-cache) |
 | [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
@@ -79,4 +81,8 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
