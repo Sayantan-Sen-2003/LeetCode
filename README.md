@@ -47,6 +47,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
@@ -54,6 +55,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
@@ -90,5 +92,6 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
