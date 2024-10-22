@@ -29,6 +29,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 | [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
@@ -71,6 +73,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
 ## Database
 |  |
