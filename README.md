@@ -34,6 +34,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -102,4 +103,12 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 | [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
