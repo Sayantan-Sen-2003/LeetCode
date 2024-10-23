@@ -36,6 +36,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
@@ -89,6 +90,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Recursion
 |  |
 | ------- |
