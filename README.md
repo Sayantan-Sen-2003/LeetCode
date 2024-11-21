@@ -29,6 +29,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/2502-sort-the-people) |
 ## Array
@@ -103,6 +104,7 @@ Questions solved from various platforms like Leetcode,hackerrank,gfg .
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sayantan-Sen-2003/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Matrix
